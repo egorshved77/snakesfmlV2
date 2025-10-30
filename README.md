@@ -7,13 +7,11 @@ This is the **second version** of the project, featuring **multiplayer mode** an
 
 ## 🎮 Features
 
-- 🧩 **MVC architecture** — clean separation between game logic, visuals, and controls  
-- 👥 **Multiplayer mode** (2 players)  
-- 💾 **Score saving** to file  
-- 🧠 Uses main **OOP concepts** — classes, inheritance, encapsulation, polymorphism  
-- 🎨 Built with **SFML** for graphics and input handling  
+-  **MVC architecture** — clean separation between game logic, visuals, and controls  
+-  **Multiplayer mode** (2 players)  
+-  **Score saving** to file  
+-  Uses main **OOP concepts** — classes, inheritance, encapsulation, polymorphism  
+-  Built with **SFML** for graphics and input handling  
 
----
 
-## 📁 Project Structure
 
