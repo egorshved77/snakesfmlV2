@@ -27,3 +27,4 @@ std::pair<int, int> Food::getPosition() const
 bool Food::isPositionValid(int x, int y, const Snake& snake) const {
     return !snake.isSnakeBody(x, y);
 }
+
